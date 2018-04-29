@@ -14,7 +14,7 @@ class Body extends Component {
                     <br />In 2017, I finished my Bachelor's Degree in Computer Information System.
                     Since I was a graduate, I did some projects in terms of creating and managing
                     mobile application. I have a very high interest in programming and I feel like to
-                    deepen this field. Therefore, I decided to join hacktiv8 in December 2017. I learned a lot of new technology
+                    deepen this field. Therefore, I decided to join <a style={{textDecoration:'none'}} href='https://hacktiv8.com' target='_blank'>Hacktiv8</a> in December 2017. I learned a lot of new technology
                     related to web development.
                     <br />I wish I can take advantage of the knowledge that I have, to solve many problem in this world using technology.</p>
                 </div>
@@ -27,7 +27,7 @@ class Body extends Component {
                     In 2017, I finished my Bachelor's Degree in Computer Information System.
                     Since I was a graduate, I did some projects in terms of creating and managing
                     mobile application. I have a very high interest in programming and I feel like to
-                    deepen this field. Therefore, I decided to join hacktiv8 in December 2017. I learned a lot of new technology
+                    deepen this field. Therefore, I decided to join <a style={{textDecoration:'none'}} href='https://hacktiv8.com' target='_blank'>Hacktiv8</a> Indonesia in December 2017. I learned a lot of new technology
                     related to web development.
                     I wish I can take advantage of the knowledge that I have, to solve many problem in this world using technology.</p>
                 </div>
