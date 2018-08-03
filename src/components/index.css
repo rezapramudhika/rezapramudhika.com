@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700,800|Raleway:200,400,700');
+
+.h-100vh {
+    height: 100vh;
+}
+
+@media (max-width: 1199.98px) { 
+    .p-first {
+        padding: 8rem!important;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .p-first {
+        padding: 8rem!important;
+    }
+}
+
+@media (max-width: 767.98px) { 
+    .p-first {
+        padding: 4rem!important;
+    }
+    .ft-s24 {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 575.98px) { 
+    .p-first {
+        padding: 2rem!important;
+    }
+    .ft-s24 {
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 1199.99px) { 
+    .p-first {
+        padding: 8rem!important;
+    }
+}
+
+@media (min-width: 920px) { 
+    .h1 {
+        font-size: 60px;
+    }
+    .first p {
+        font-size: 20px;
+    }
+    .ft-s24 {
+        font-size: 24px;
+    }
+}
+
+.bg-black {
+    background: linear-gradient(#333333, #444444);
+}
+
+.text-blue {
+    color: #61dafb;
+}
+
+.text-steelblue {
+    color: #3295be;
+}
+
+.underline-white {
+    width: 15%;
+    border-bottom: 3px solid white;
+}
+
+.underline-blue{
+    width: 15%;
+    border-bottom: 3px solid #3295be;
+}
+
+.raleway {
+    font-family: 'Raleway', sans-serif;
+}
+
+.montseerat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.ft-w700 {
+    font-weight: 700;
+}
+
+.ft-w800 {
+    font-weight: 800;
+}
+
+.ft-w200 {
+    font-weight: 200;
+}
+
+.prog-js {
+    height: 12px;
+    width: 87%
+}
+
+.prog-html {
+    height: 12px;
+    width: 87%
+}
+
+.prog-css {
+    height: 12px;
+    width: 73%
+}
+
+.prog-react {
+    height: 12px;
+    width: 87%
+}
+
+.prog-reactnative {
+    height: 12px;
+    width: 74%
+}
+
+.prog-vue {
+    height: 12px;
+    width: 45%;
+}
+
+.prog-java {
+    height: 12px;
+    width: 54%
+}
+
+.prog-redis {
+    height: 12px;
+    width: 75%
+}
+
+.prog-mysql {
+    height: 12px;
+    width: 85%
+}
+
+.prog-mongodb {
+    height: 12px;
+    width: 87%
+}
+
+.ft-s10 {
+    font-size: 10px;
+}
+
+.tx-align-left {
+    text-align: left
+}
